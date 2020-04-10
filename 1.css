@@ -1,0 +1,19 @@
+html{background-color: darksalmon;}
+        
+body{background-color: pink;width: 100%;max-width: 640px;margin: 0 auto; top: 30px; }
+h1{text-align: center;padding-top:10px ;}
+.plc{margin-left: 5px;}
+.pic{border-radius: 50%;}
+.cao{top: 420px;
+left: 630px;
+position: absolute;
+}
+.qu{
+    float: left; border-radius: 50px;
+width: 100;
+border:1px solid pink;
+height: 100;
+}
+.shabi{top: 30px;
+left: 150px;
+position: absolute}
